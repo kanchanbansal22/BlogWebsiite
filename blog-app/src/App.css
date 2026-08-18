@@ -1,0 +1,21 @@
+.app {
+  min-height: 100vh;
+}
+
+button {
+  font-family: inherit;
+}
+
+a {
+  transition: 0.2s ease;
+}
+
+button,
+a {
+  cursor: pointer;
+}
+
+button:hover,
+a:hover {
+  opacity: 0.9;
+}
